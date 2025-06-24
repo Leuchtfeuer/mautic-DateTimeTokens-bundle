@@ -1,18 +1,21 @@
 {
-    "name": "leuchtfeuer/mautic-DateTimeTokens-bundle",
+    "name": "leuchtfeuer/mautic-datetimetokens-bundle",
     "description": "Provides various tokens that put the current date or time in your email or landing page (e.g. for the copyright year)",
     "type": "mautic-plugin",
-    "license": "GPL-3.0",
-    "homepage": "https://www.leuchtfeuer.com",
-    "keywords": ["mautic","plugin","event"],
-    "minimum-stability": "dev",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
-            "name": "Leuchtfeuer Digital Marketing GmbH",
-            "email": "mautic-plugins@leuchtfeuer.com",
-            "homepage": "https://www.leuchtfeuer.com"
+          "name": "Leuchtfeuer Digital Marketing GmbH",
+          "email": "mautic-plugins@Leuchtfeuer.com",
+          "homepage": "https://Leuchtfeuer.com/mautic/",
+          "role": "Developer"
         }
-    ],
+      ],
+    "keywords": ["mautic","plugin","integration","event"],
+    "extra":  {
+        "install-directory-name": "LeuchtfeuerDateTimeTokensBundle"
+    },
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.4.0 <8.1",
         "mautic/core-lib": "^4.0"
