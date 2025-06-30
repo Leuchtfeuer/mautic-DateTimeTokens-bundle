@@ -11,7 +11,7 @@
 return [
     'name'          => 'Date & Time Tokens by Leuchtfeuer',
     'description'   => 'Provides various tokens that put the current date or time in your email or landing page (e.g. for the copyright year)',
-    'version'       => '1.0',
+    'version'       => '1.0.1',
     'author'        => 'Leuchtfeuer Digital Marketing GmbH',
     'services'      => [
         'events'    => [
