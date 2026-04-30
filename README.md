@@ -24,3 +24,6 @@ In your email or landing page add one or all of tokens in format like below
 Leuchtfeuer Digital Marketing GmbH
 
 mautic-plugins@Leuchtfeuer.com
+
+## License
+This plugin is licensed under the GPL v3 License.
