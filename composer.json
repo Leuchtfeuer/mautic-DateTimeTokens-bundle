@@ -2,7 +2,7 @@
     "name": "leuchtfeuer/mautic-datetimetokens-bundle",
     "description": "Provides various tokens that put the current date or time in your email or landing page (e.g. for the copyright year)",
     "type": "mautic-plugin",
-    "license": "GPL-3.0-or-later",
+    "license": "GPL-3.0",
     "authors": [
         {
           "name": "Leuchtfeuer Digital Marketing GmbH",
